@@ -60,12 +60,15 @@
     justify-content: space-around;
 }
 
-.título-corpo{
-     display: flex;
-     justify-content: center;
+.footer {
+    display: flex;
+    justify-content: center;
 }
 
-.footer {
+.rodapé{
+    
+}
+.título-corpo{
     display: flex;
     justify-content: center;
 }
